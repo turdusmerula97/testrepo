@@ -14,13 +14,13 @@
 # 
 # You should have received a copy of the GNU General Public License along
 # with this program.  If not, see <http://www.gnu.org/licenses/>.
-'''
+"""
 Created on Jun 19, 2012
 
 Tool to compute degenerate primer parameters using BioPython
 
 @author: Allis Tauri <allista@gmail.com>
-'''
+"""
 
 from DegenPrimer.DegenPrimerConfig import DegenPrimerConfig
 from DegenPrimer.DegenPrimerConfigCLI import DegenPrimerConfigCLI
